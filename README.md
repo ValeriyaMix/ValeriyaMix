@@ -13,7 +13,7 @@ I’m currently transitioning into software development with a focus on the **.N
 ### 🛠️ Projects In Progress
 
 - [Appointment Booking System back-end API (hosted on mentor's GitHub)](https://github.com/Amenawon/Appointment-Based-Scheduling) - A RESTful ASP.NET Core 6 Web API for an appointment booking system featuring JWT authentication, role-based access, and full CRUD operations using Entity Framework Core.
-- [Appointment Booking System front-end (hosted on mentor's GitHub] ()
+- [Appointment Booking System front-end (hosted on mentor's GitHub)](https://github.com/Amenawon/Appointment-Based-Scheduling-UI) - React.js multi-page application that enables users to log in, book appointments, and manage their bookings through integration with the back-end API.
 
 
 
